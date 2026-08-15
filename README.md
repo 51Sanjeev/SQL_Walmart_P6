@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis — MySQL
+# Walmart Sales Data Analysis
 
 ## 📌 Project Overview
 
